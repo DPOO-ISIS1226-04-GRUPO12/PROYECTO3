@@ -1,0 +1,11 @@
+nombre;ubicación;diasHorasAtencion
+Bogota;Cll 10 #25-65;Lunes-Sabado/6am-11pm
+Valledupar;Cll 10 #25-66;Lunes-Sabado/6am-11pm
+Cali;Cll 10 #25-67;Lunes-Sabado/6am-11pm
+Medellin;Cll 10 #25-68;Lunes-Sabado/6am-11pm
+Barranquilla;Cll 10 #25-69;Lunes-Sabado/6am-11pm
+Villavicencio;Cll 10 #25-70;Lunes-Domingo/6am-11pm
+Santa Marta;Cll 10 #25-71;Lunes-Domingo/6am-11pm
+Riohacha;Cll 10 #25-72;Lunes-Domingo/6am-11pm
+Pereira;Cll 10 #25-73;Lunes-Domingo/6am-11pm
+Cartagena;Calle Falsa 123;Lunes-Domingo/6am-11pm

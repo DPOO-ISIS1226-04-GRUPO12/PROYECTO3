@@ -1,0 +1,11 @@
+nombre;sede;usuario;contraseña;tipoUsuario
+Armando;Bogota;2;2;Administrador Local
+Bella;Valledupar;adminL2;DPOO2;Administrador Local
+Camilo;Cali;adminL3;DPOO3;Administrador Local
+Daniel;Medellin;adminL4;DPOO4;Administrador Local
+Esteban;Barranquilla;adminL5;DPOO5;Administrador Local
+Fernando;Villavicencio;adminL6;DPOO6;Administrador Local
+Gustavo;Santa Marta;adminL7;DPOO7;Administrador Local
+Hernan;Riohacha;adminL8;DPOO8;Administrador Local
+Ignacio;Pereira;adminL9;DPOO9;Administrador Local
+Javier;Cartagena;adminL10;DPOO10;Administrador Local

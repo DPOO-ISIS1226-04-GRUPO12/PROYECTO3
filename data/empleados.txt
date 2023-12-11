@@ -1,0 +1,10 @@
+ArmandoE;Bogota;4;4;Empleado
+BellaE;Valledupar;empleadoL2;DPOO2;Empleado
+CamiloE;Cali;empleadoL3;DPOO3;Empleado
+DanielE;Medellin;empleadoL4;DPOO4;Empleado
+EstebanE;Barranquilla;empleadoL5;DPOO5;Empleado
+FernandoE;Villavicencio;empleadoL6;DPOO6;Empleado
+GustavoE;Santa Marta;empleadoL7;DPOO7;Empleado
+HernanE;Riohacha;empleadoL8;DPOO8;Empleado
+IgnacioE;Pereira;empleadoL9;DPOO9;Empleado
+JavierE;Cartagena;empleadoL10;DPOO10;Empleado

@@ -1,0 +1,380 @@
+1;Bogota;5;AAA000;BMW-A1;Azul;Manual;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;4
+2;Valledupar;5;AAA001;Mercedes Benz-A1;Gris;Automático;1;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;0
+3;Cali;5;AAA002;Audi-A1;Negro;Manual;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;5
+4;Medellin;5;AAA003;Renault-A1;Rojo;Automático;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;2
+5;Barranquilla;5;AAA004;Ford-A1;Blanco;Manual;1;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;18
+6;Villavicencio;5;AAA005;BMW-A1A1;Azul;Automático;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;12
+7;Santa Marta;5;AAA006;Mercedes Benz-A1A1;Gris;Manual;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;0
+8;Riohacha;5;AAA007;Audi-A1A1;Negro;Automático;1;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;14
+9;Pereira;5;AAA008;Renault-A1A1;Rojo;Manual;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;15
+10;Cartagena;5;AAA009;Ford-A1A1;Blanco;Automático;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;18
+11;Bogota;5;AAA010;BMW-A1;Azul;Manual;1;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;17
+12;Valledupar;5;AAA011;Mercedes Benz-A1;Gris;Automático;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;8
+13;Cali;5;AAA012;Audi-A1;Negro;Manual;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;13
+14;Medellin;5;AAA013;Renault-A1;Rojo;Automático;1;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;17
+15;Barranquilla;5;AAA014;Ford-A1;Blanco;Manual;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;19
+16;Villavicencio;5;AAA015;BMW-A1A1;Azul;Automático;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;10
+17;Santa Marta;5;AAA016;Mercedes Benz-A1A1;Gris;Manual;1;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;6
+18;Riohacha;5;AAA017;Audi-A1A1;Negro;Automático;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;1
+19;Pereira;5;AAA018;Renault-A1A1;Rojo;Manual;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;6
+20;Cartagena;5;AAA019;Ford-A1A1;Blanco;Automático;1;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;1
+21;Bogota;5;AAA020;BMW-A1;Azul;Manual;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;19
+22;Valledupar;5;AAA021;Mercedes Benz-A1;Gris;Automático;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;8
+23;Cali;5;AAA022;Audi-A1;Negro;Manual;2;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;9
+24;Medellin;5;AAA023;Renault-A1;Rojo;Automático;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;14
+25;Barranquilla;5;AAA024;Ford-A1;Blanco;Manual;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;8
+26;Villavicencio;5;AAA025;BMW-A1A1;Azul;Automático;2;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;20
+27;Santa Marta;5;AAA026;Mercedes Benz-A1A1;Gris;Manual;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;13
+28;Riohacha;5;AAA027;Audi-A1A1;Negro;Automático;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;15
+29;Pereira;5;AAA028;Renault-A1A1;Rojo;Manual;2;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;17
+30;Cartagena;5;AAA029;Ford-A1A1;Blanco;Automático;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;3
+31;Bogota;5;AAA030;BMW-A1;Azul;Manual;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;17
+32;Valledupar;7;AAA031;Mercedes Benz-A1;Gris;Automático;3;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;17
+33;Cali;7;AAA032;Audi-A1;Negro;Manual;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;2
+34;Medellin;7;AAA033;Renault-A1;Rojo;Automático;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;17
+35;Barranquilla;7;AAA034;Ford-A1;Blanco;Manual;3;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;15
+36;Villavicencio;7;AAA035;BMW-A1A1;Azul;Automático;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;13
+37;Santa Marta;7;AAA036;Mercedes Benz-A1A1;Gris;Manual;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;12
+38;Riohacha;7;AAA037;Audi-A1A1;Negro;Automático;3;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;4
+39;Pereira;7;AAA038;Renault-A1A1;Rojo;Manual;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;5
+40;Cartagena;7;AAA039;Ford-A1A1;Blanco;Automático;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;6
+41;Bogota;7;AAA040;BMW-A1;Negro;Manual;4;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;8
+42;Valledupar;7;AAA041;Mercedes Benz-A1;Rojo;Automático;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;2
+43;Cali;7;AAA042;Audi-A1;Blanco;Manual;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;11
+44;Medellin;7;AAA043;Renault-A1;Negro;Automático;4;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;3
+45;Barranquilla;7;AAA044;Ford-A1;Rojo;Manual;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;6
+46;Villavicencio;7;AAA045;BMW-A1A1;Blanco;Automático;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;16
+47;Santa Marta;7;AAA046;Mercedes Benz-A1A1;Negro;Manual;4;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;17
+48;Riohacha;7;AAA047;Audi-A1A1;Rojo;Automático;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;18
+49;Pereira;7;AAA048;Renault-A1A1;Blanco;Manual;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;9
+50;Cartagena;7;AAA049;Ford-A1A1;Negro;Automático;4;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;5
+51;Bogota;5;AAA050;BMW-A1;Azul;Manual;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;0
+52;Valledupar;5;AAA051;Mercedes Benz-A1;Gris;Automático;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;5
+53;Cali;5;AAA052;Audi-A1;Negro;Manual;1;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;0
+54;Medellin;5;AAA053;Renault-A1;Rojo;Automático;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;11
+55;Barranquilla;5;AAA054;Ford-A1;Blanco;Manual;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;13
+56;Villavicencio;5;AAA055;BMW-A1A1;Azul;Automático;1;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;12
+57;Santa Marta;5;AAA056;Mercedes Benz-A1A1;Gris;Manual;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;19
+58;Riohacha;5;AAA057;Audi-A1A1;Negro;Automático;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;17
+59;Pereira;5;AAA058;Renault-A1A1;Rojo;Manual;1;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;10
+60;Cartagena;5;AAA059;Ford-A1A1;Blanco;Automático;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;9
+61;Bogota;5;AAA060;BMW-A1;Azul;Manual;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;1
+62;Valledupar;5;AAA061;Mercedes Benz-A1;Gris;Automático;2;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;3
+63;Cali;5;AAA062;Audi-A1;Negro;Manual;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;15
+64;Medellin;5;AAA063;Renault-A1;Rojo;Automático;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;8
+65;Barranquilla;5;AAA064;Ford-A1;Blanco;Manual;2;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;19
+66;Villavicencio;5;AAA065;BMW-A1A1;Azul;Automático;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;19
+67;Santa Marta;5;AAA066;Mercedes Benz-A1A1;Gris;Manual;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;20
+68;Riohacha;5;AAA067;Audi-A1A1;Negro;Automático;2;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;0
+69;Pereira;5;AAA068;Renault-A1A1;Rojo;Manual;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;13
+70;Cartagena;5;AAA069;Ford-A1A1;Blanco;Automático;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;9
+71;Bogota;5;AAA070;BMW-A1;Azul;Manual;3;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;1
+72;Valledupar;7;AAA071;Mercedes Benz-A1;Gris;Automático;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;18
+73;Cali;7;AAA072;Audi-A1;Negro;Manual;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;9
+74;Medellin;7;AAA073;Renault-A1;Rojo;Automático;3;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;17
+75;Barranquilla;7;AAA074;Ford-A1;Blanco;Manual;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;17
+76;Villavicencio;7;AAA075;BMW-A1A1;Azul;Automático;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;4
+77;Santa Marta;7;AAA076;Mercedes Benz-A1A1;Gris;Manual;3;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;4
+78;Riohacha;7;AAA077;Audi-A1A1;Negro;Automático;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;6
+79;Pereira;7;AAA078;Renault-A1A1;Rojo;Manual;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;6
+80;Cartagena;7;AAA079;Ford-A1A1;Blanco;Automático;3;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;19
+81;Bogota;7;AAA080;BMW-A1;Negro;Manual;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;17
+82;Valledupar;7;AAA081;Mercedes Benz-A1;Rojo;Automático;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;1
+83;Cali;7;AAA082;Audi-A1;Blanco;Manual;4;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;3
+84;Medellin;7;AAA083;Renault-A1;Negro;Automático;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;5
+85;Barranquilla;7;AAA084;Ford-A1;Rojo;Manual;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;0
+86;Villavicencio;7;AAA085;BMW-A1A1;Blanco;Automático;4;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;1
+87;Santa Marta;7;AAA086;Mercedes Benz-A1A1;Negro;Manual;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;10
+88;Riohacha;7;AAA087;Audi-A1A1;Rojo;Automático;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;10
+89;Pereira;7;AAA088;Renault-A1A1;Blanco;Manual;4;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;11
+90;Cartagena;7;AAA089;Ford-A1A1;Negro;Automático;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;12
+91;Valledupar;7;AAA091;Mercedes Benz-A1;Blanco;Automático;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;19
+92;Cali;7;AAA092;Audi-A1;Negro;Manual;1;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;10
+93;Medellin;7;AAA093;Renault-A1;Rojo;Automático;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;6
+94;Barranquilla;7;AAA094;Ford-A1;Blanco;Manual;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;7
+95;Villavicencio;7;AAA095;BMW-A1A1;Azul;Automático;1;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;6
+96;Santa Marta;7;AAA096;Mercedes Benz-A1A1;Gris;Manual;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;16
+97;Riohacha;7;AAA097;Audi-A1A1;Negro;Automático;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;7
+98;Pereira;7;AAA098;Renault-A1A1;Rojo;Manual;1;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;15
+99;Cartagena;7;AAA099;Ford-A1A1;Blanco;Automático;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;3
+100;Bogota;7;AAA100;BMW-A1;Azul;Manual;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;20
+101;Valledupar;7;AAA101;Mercedes Benz-A1;Gris;Automático;2;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;2
+102;Cali;7;AAA102;Audi-A1;Negro;Manual;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;6
+103;Medellin;7;AAA103;Renault-A1;Rojo;Automático;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;5
+104;Barranquilla;7;AAA104;Ford-A1;Blanco;Manual;2;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;10
+105;Villavicencio;7;AAA105;BMW-A1A1;Azul;Automático;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;10
+106;Santa Marta;7;AAA106;Mercedes Benz-A1A1;Gris;Manual;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;18
+107;Riohacha;7;AAA107;Audi-A1A1;Negro;Automático;2;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;16
+108;Pereira;7;AAA108;Renault-A1A1;Rojo;Manual;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;0
+109;Cartagena;7;AAA109;Ford-A1A1;Blanco;Automático;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;11
+110;Bogota;7;AAA110;BMW-A1;Negro;Manual;2;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;13
+111;Valledupar;7;AAA111;Mercedes Benz-A1;Rojo;Automático;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;8
+112;Cali;7;AAA112;Audi-A1;Blanco;Manual;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;8
+113;Medellin;7;AAA113;Renault-A1;Negro;Automático;3;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;16
+114;Barranquilla;7;AAA114;Ford-A1;Rojo;Manual;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;5
+115;Villavicencio;7;AAA115;BMW-A1A1;Blanco;Automático;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;17
+116;Santa Marta;7;AAA116;Mercedes Benz-A1A1;Negro;Manual;3;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;17
+117;Riohacha;7;AAA117;Audi-A1A1;Rojo;Automático;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;5
+118;Pereira;7;AAA118;Renault-A1A1;Blanco;Manual;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;5
+119;Cartagena;7;AAA119;Ford-A1A1;Negro;Automático;3;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;15
+120;Bogota;7;AAA120;BMW-A1;Azul;Manual;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;10
+121;Valledupar;7;AAA121;Mercedes Benz-A1;Gris;Automático;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;9
+122;Cali;7;AAA122;Audi-A1;Negro;Manual;4;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;5
+123;Medellin;7;AAA123;Renault-A1;Rojo;Automático;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;13
+124;Barranquilla;7;AAA124;Ford-A1;Blanco;Manual;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;17
+125;Villavicencio;7;AAA125;BMW-A1A1;Azul;Automático;4;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;9
+126;Santa Marta;7;AAA126;Mercedes Benz-A1A1;Gris;Manual;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;6
+127;Riohacha;7;AAA127;Audi-A1A1;Negro;Automático;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;17
+128;Pereira;7;AAA128;Renault-A1A1;Rojo;Manual;4;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;12
+129;Cartagena;7;AAA129;Ford-A1A1;Blanco;Automático;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;0
+130;Bogota;7;AAA130;BMW-A1;Negro;Manual;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;16
+131;Valledupar;7;AAA131;Mercedes Benz-A1;Rojo;Automático;1;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;17
+132;Cali;7;AAA132;Audi-A1;Blanco;Manual;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;15
+133;Medellin;7;AAA133;Renault-A1;Negro;Automático;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;14
+134;Barranquilla;7;AAA134;Ford-A1;Rojo;Manual;1;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;16
+135;Villavicencio;7;AAA135;BMW-A1A1;Blanco;Automático;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;13
+136;Santa Marta;7;AAA136;Mercedes Benz-A1A1;Negro;Manual;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;1
+137;Riohacha;7;AAA137;Audi-A1A1;Rojo;Automático;1;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;16
+138;Pereira;7;AAA138;Renault-A1A1;Blanco;Manual;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;17
+139;Cartagena;7;AAA139;Ford-A1A1;Negro;Automático;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;1
+140;Bogota;7;AAA140;BMW-A1;Azul;Manual;1;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;16
+141;Valledupar;7;AAA141;Mercedes Benz-A1;Gris;Automático;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;19
+142;Cali;7;AAA142;Audi-A1;Negro;Manual;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;8
+143;Medellin;7;AAA143;Renault-A1;Rojo;Automático;2;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;9
+144;Barranquilla;7;AAA144;Ford-A1;Blanco;Manual;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;15
+145;Villavicencio;7;AAA145;BMW-A1A1;Azul;Automático;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;12
+146;Santa Marta;7;AAA146;Mercedes Benz-A1A1;Gris;Manual;2;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;17
+147;Riohacha;7;AAA147;Audi-A1A1;Negro;Automático;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;18
+148;Pereira;7;AAA148;Renault-A1A1;Rojo;Manual;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;2
+149;Cartagena;7;AAA149;Ford-A1A1;Blanco;Automático;2;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;16
+150;Bogota;7;AAA150;BMW-A1;Negro;Manual;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;6
+151;Valledupar;7;AAA151;Mercedes Benz-A1;Rojo;Automático;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;6
+152;Cali;7;AAA152;Audi-A1;Blanco;Manual;3;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;7
+153;Medellin;7;AAA153;Renault-A1;Negro;Automático;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;14
+154;Barranquilla;7;AAA154;Ford-A1;Rojo;Manual;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;10
+155;Villavicencio;7;AAA155;BMW-A1A1;Blanco;Automático;3;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;8
+156;Santa Marta;7;AAA156;Mercedes Benz-A1A1;Negro;Manual;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;9
+157;Riohacha;7;AAA157;Audi-A1A1;Rojo;Automático;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;16
+158;Pereira;7;AAA158;Renault-A1A1;Blanco;Manual;3;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;0
+159;Cartagena;7;AAA159;Ford-A1A1;Negro;Automático;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;17
+160;Bogota;7;AAA160;BMW-A1;Azul;Manual;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;19
+161;Valledupar;7;AAA161;Mercedes Benz-A1;Gris;Automático;4;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;11
+162;Cali;7;AAA162;Audi-A1;Negro;Manual;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;15
+163;Medellin;7;AAA163;Renault-A1;Rojo;Automático;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;5
+164;Barranquilla;7;AAA164;Ford-A1;Blanco;Manual;4;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;5
+165;Villavicencio;7;AAA165;BMW-A1A1;Azul;Automático;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;20
+166;Santa Marta;7;AAA166;Mercedes Benz-A1A1;Gris;Manual;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;14
+167;Riohacha;7;AAA167;Audi-A1A1;Negro;Automático;4;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;4
+168;Pereira;7;AAA168;Renault-A1A1;Rojo;Manual;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;8
+169;Cartagena;7;AAA169;Ford-A1A1;Blanco;Automático;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;0
+170;Bogota;7;AAA170;BMW-A1;Negro;Manual;4;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;17
+171;Valledupar;7;AAA171;Mercedes Benz-A1;Rojo;Automático;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;10
+172;Cali;7;AAA172;Audi-A1;Blanco;Manual;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;0
+173;Medellin;7;AAA173;Renault-A1;Negro;Automático;1;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;6
+174;Barranquilla;7;AAA174;Ford-A1;Rojo;Manual;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;11
+175;Villavicencio;7;AAA175;BMW-A1A1;Blanco;Automático;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;8
+176;Santa Marta;7;AAA176;Mercedes Benz-A1A1;Negro;Manual;1;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;10
+177;Riohacha;7;AAA177;Audi-A1A1;Rojo;Automático;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;18
+178;Pereira;7;AAA178;Renault-A1A1;Blanco;Manual;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;5
+179;Cartagena;7;AAA179;Ford-A1A1;Negro;Automático;1;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;1
+180;Bogota;7;AAA180;BMW-A1;Azul;Manual;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;1
+181;Valledupar;7;AAA181;Mercedes Benz-A1;Gris;Automático;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;9
+182;Cali;7;AAA182;Audi-A1;Negro;Manual;2;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;6
+183;Medellin;7;AAA183;Renault-A1;Rojo;Automático;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;19
+184;Barranquilla;7;AAA184;Ford-A1;Blanco;Manual;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;2
+185;Villavicencio;7;AAA185;BMW-A1A1;Azul;Automático;2;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;14
+186;Santa Marta;7;AAA186;Mercedes Benz-A1A1;Gris;Manual;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;14
+187;Riohacha;7;AAA187;Audi-A1A1;Negro;Automático;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;8
+188;Pereira;7;AAA188;Renault-A1A1;Rojo;Manual;2;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;17
+189;Cartagena;7;AAA189;Ford-A1A1;Blanco;Automático;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;7
+190;Bogota;7;AAA190;BMW-A1;Negro;Manual;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;0
+191;Valledupar;7;AAA191;Mercedes Benz-A1;Rojo;Automático;3;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;17
+192;Cali;7;AAA192;Audi-A1;Blanco;Manual;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;10
+193;Medellin;7;AAA193;Renault-A1;Negro;Automático;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;15
+194;Barranquilla;7;AAA194;Ford-A1;Rojo;Manual;3;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;10
+195;Villavicencio;7;AAA195;BMW-A1A1;Blanco;Automático;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;1
+196;Santa Marta;7;AAA196;Mercedes Benz-A1A1;Negro;Manual;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;19
+197;Riohacha;7;AAA197;Audi-A1A1;Rojo;Automático;3;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;4
+198;Pereira;7;AAA198;Renault-A1A1;Blanco;Manual;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;10
+199;Cartagena;7;AAA199;Ford-A1A1;Negro;Automático;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;7
+200;Bogota;7;AAA200;BMW-A1;Azul;Manual;3;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;7
+201;Valledupar;7;AAA201;Mercedes Benz-A1;Gris;Automático;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;9
+202;Cali;7;AAA202;Audi-A1;Negro;Manual;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;15
+203;Medellin;7;AAA203;Renault-A1;Rojo;Automático;4;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;20
+204;Barranquilla;7;AAA204;Ford-A1;Blanco;Manual;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;11
+205;Villavicencio;7;AAA205;BMW-A1A1;Azul;Automático;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;5
+206;Santa Marta;7;AAA206;Mercedes Benz-A1A1;Gris;Manual;4;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;1
+207;Riohacha;7;AAA207;Audi-A1A1;Negro;Automático;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;18
+208;Pereira;7;AAA208;Renault-A1A1;Rojo;Manual;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;16
+209;Cartagena;7;AAA209;Ford-A1A1;Blanco;Automático;4;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;9
+210;Bogota;7;AAA210;BMW-A1;Negro;Manual;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;15
+211;Valledupar;7;AAA211;Mercedes Benz-A1;Rojo;Automático;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;19
+212;Cali;7;AAA212;Audi-A1;Blanco;Manual;1;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;12
+213;Medellin;7;AAA213;Renault-A1;Negro;Automático;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;1
+214;Barranquilla;7;AAA214;Ford-A1;Rojo;Manual;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;19
+215;Villavicencio;7;AAA215;BMW-A1A1;Blanco;Automático;1;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;0
+216;Santa Marta;7;AAA216;Mercedes Benz-A1A1;Negro;Manual;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;1
+217;Riohacha;7;AAA217;Audi-A1A1;Rojo;Automático;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;8
+218;Pereira;7;AAA218;Renault-A1A1;Blanco;Manual;1;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;1
+219;Cartagena;7;AAA219;Ford-A1A1;Negro;Automático;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;3
+220;Bogota;7;AAA220;BMW-A1;Azul;Manual;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;13
+221;Valledupar;7;AAA221;Mercedes Benz-A1;Gris;Automático;2;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;11
+222;Cali;7;AAA222;Audi-A1;Negro;Manual;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;20
+223;Medellin;7;AAA223;Renault-A1;Rojo;Automático;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;15
+224;Barranquilla;7;AAA224;Ford-A1;Blanco;Manual;2;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;10
+225;Villavicencio;7;AAA225;BMW-A1A1;Azul;Automático;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;19
+226;Santa Marta;7;AAA226;Mercedes Benz-A1A1;Gris;Manual;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;17
+227;Riohacha;7;AAA227;Audi-A1A1;Negro;Automático;2;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;16
+228;Pereira;7;AAA228;Renault-A1A1;Rojo;Manual;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;15
+229;Cartagena;7;AAA229;Ford-A1A1;Blanco;Automático;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;9
+230;Bogota;7;AAA230;BMW-A1;Negro;Manual;2;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;4
+231;Valledupar;7;AAA231;Mercedes Benz-A1;Rojo;Automático;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;4
+232;Cali;7;AAA232;Audi-A1;Blanco;Manual;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;3
+233;Medellin;7;AAA233;Renault-A1;Negro;Automático;3;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;17
+234;Barranquilla;7;AAA234;Ford-A1;Rojo;Manual;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;11
+235;Villavicencio;7;AAA235;BMW-A1A1;Blanco;Automático;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;10
+236;Santa Marta;7;AAA236;Mercedes Benz-A1A1;Negro;Manual;3;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;13
+237;Riohacha;7;AAA237;Audi-A1A1;Rojo;Automático;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;10
+238;Pereira;7;AAA238;Renault-A1A1;Blanco;Manual;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;6
+239;Cartagena;7;AAA239;Ford-A1A1;Negro;Automático;3;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;0
+240;Bogota;7;AAA240;BMW-A1;Azul;Manual;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;9
+241;Valledupar;7;AAA241;Mercedes Benz-A1;Gris;Automático;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;4
+242;Cali;7;AAA242;Audi-A1;Negro;Manual;4;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;10
+243;Medellin;7;AAA243;Renault-A1;Rojo;Automático;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;10
+244;Barranquilla;7;AAA244;Ford-A1;Blanco;Manual;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;6
+245;Villavicencio;7;AAA245;BMW-A1A1;Azul;Automático;4;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;15
+246;Santa Marta;7;AAA246;Mercedes Benz-A1A1;Gris;Manual;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;13
+247;Riohacha;7;AAA247;Audi-A1A1;Negro;Automático;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;20
+248;Pereira;7;AAA248;Renault-A1A1;Rojo;Manual;4;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;10
+249;Cartagena;7;AAA249;Ford-A1A1;Blanco;Automático;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;13
+250;Bogota;7;AAA250;BMW-A1;Negro;Manual;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;20
+251;Valledupar;7;AAA251;Mercedes Benz-A1;Rojo;Automático;1;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;6
+252;Cali;7;AAA252;Audi-A1;Blanco;Manual;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;9
+253;Medellin;7;AAA253;Renault-A1;Negro;Automático;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;18
+254;Barranquilla;7;AAA254;Ford-A1;Rojo;Manual;1;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;4
+255;Villavicencio;7;AAA255;BMW-A1A1;Blanco;Automático;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;3
+256;Santa Marta;7;AAA256;Mercedes Benz-A1A1;Negro;Manual;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;9
+257;Riohacha;7;AAA257;Audi-A1A1;Rojo;Automático;1;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;18
+258;Pereira;7;AAA258;Renault-A1A1;Blanco;Manual;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;3
+259;Cartagena;7;AAA259;Ford-A1A1;Negro;Automático;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;6
+260;Bogota;7;AAA260;BMW-A1;Azul;Manual;1;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;0
+261;Valledupar;7;AAA261;Mercedes Benz-A1;Gris;Automático;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;4
+262;Cali;7;AAA262;Audi-A1;Negro;Manual;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;7
+263;Medellin;7;AAA263;Renault-A1;Rojo;Automático;2;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;7
+264;Barranquilla;7;AAA264;Ford-A1;Blanco;Manual;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;14
+265;Villavicencio;7;AAA265;BMW-A1A1;Azul;Automático;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;3
+266;Santa Marta;7;AAA266;Mercedes Benz-A1A1;Gris;Manual;2;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;15
+267;Riohacha;7;AAA267;Audi-A1A1;Negro;Automático;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;19
+268;Pereira;7;AAA268;Renault-A1A1;Rojo;Manual;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;8
+269;Cartagena;7;AAA269;Ford-A1A1;Blanco;Automático;2;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;14
+270;Bogota;7;AAA270;BMW-A1;Negro;Manual;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;0
+271;Valledupar;7;AAA271;Mercedes Benz-A1;Rojo;Automático;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;19
+272;Cali;7;AAA272;Audi-A1;Blanco;Manual;3;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;20
+273;Medellin;7;AAA273;Renault-A1;Negro;Automático;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;14
+274;Barranquilla;7;AAA274;Ford-A1;Rojo;Manual;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;16
+275;Villavicencio;7;AAA275;BMW-A1A1;Blanco;Automático;3;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;14
+276;Santa Marta;7;AAA276;Mercedes Benz-A1A1;Negro;Manual;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;19
+277;Riohacha;7;AAA277;Audi-A1A1;Rojo;Automático;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;7
+278;Pereira;7;AAA278;Renault-A1A1;Blanco;Manual;3;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;11
+279;Cartagena;7;AAA279;Ford-A1A1;Negro;Automático;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;4
+280;Bogota;7;AAA280;BMW-A1;Azul;Manual;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;10
+281;Valledupar;7;AAA281;Mercedes Benz-A1;Gris;Automático;4;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;7
+282;Cali;7;AAA282;Audi-A1;Negro;Manual;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;20
+283;Medellin;7;AAA283;Renault-A1;Rojo;Automático;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;16
+284;Barranquilla;7;AAA284;Ford-A1;Blanco;Manual;4;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;5
+285;Villavicencio;7;AAA285;BMW-A1A1;Azul;Automático;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;20
+286;Santa Marta;7;AAA286;Mercedes Benz-A1A1;Gris;Manual;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;14
+287;Riohacha;7;AAA287;Audi-A1A1;Negro;Automático;4;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;17
+288;Pereira;7;AAA288;Renault-A1A1;Rojo;Manual;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;8
+289;Cartagena;7;AAA289;Ford-A1A1;Blanco;Automático;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;17
+290;Bogota;7;AAA290;BMW-A1;Negro;Manual;4;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;7
+291;Valledupar;7;AAA291;Mercedes Benz-A1;Rojo;Automático;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;12
+292;Cali;7;AAA292;Audi-A1;Blanco;Manual;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;9
+293;Medellin;7;AAA293;Renault-A1;Negro;Automático;1;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;12
+294;Barranquilla;7;AAA294;Ford-A1;Rojo;Manual;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;18
+295;Villavicencio;7;AAA295;BMW-A1A1;Blanco;Automático;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;18
+296;Santa Marta;7;AAA296;Mercedes Benz-A1A1;Negro;Manual;1;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;15
+297;Riohacha;7;AAA297;Audi-A1A1;Rojo;Automático;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;5
+298;Pereira;7;AAA298;Renault-A1A1;Blanco;Manual;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;2
+299;Cartagena;7;AAA299;Ford-A1A1;Negro;Automático;1;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;1
+300;Bogota;7;AAA300;BMW-A1;Azul;Manual;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;15
+301;Valledupar;7;AAA301;Mercedes Benz-A1;Gris;Automático;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;9
+302;Cali;7;AAA302;Audi-A1;Negro;Manual;1;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;11
+303;Medellin;7;AAA303;Renault-A1;Rojo;Automático;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;13
+304;Barranquilla;7;AAA304;Ford-A1;Blanco;Manual;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;3
+305;Villavicencio;7;AAA305;BMW-A1A1;Azul;Automático;1;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;3
+306;Santa Marta;7;AAA306;Mercedes Benz-A1A1;Gris;Manual;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;4
+307;Riohacha;7;AAA307;Audi-A1A1;Negro;Automático;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;20
+308;Pereira;7;AAA308;Renault-A1A1;Rojo;Manual;1;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;4
+309;Cartagena;7;AAA309;Ford-A1A1;Blanco;Automático;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;17
+310;Bogota;7;AAA310;BMW-A1;Negro;Manual;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;14
+311;Valledupar;7;AAA311;Mercedes Benz-A1;Rojo;Automático;2;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;17
+312;Cali;7;AAA312;Audi-A1;Blanco;Manual;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;19
+313;Medellin;7;AAA313;Renault-A1;Negro;Automático;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;1
+314;Barranquilla;7;AAA314;Ford-A1;Rojo;Manual;2;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;12
+315;Villavicencio;7;AAA315;BMW-A1A1;Blanco;Automático;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;19
+316;Santa Marta;7;AAA316;Mercedes Benz-A1A1;Negro;Manual;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;14
+317;Riohacha;7;AAA317;Audi-A1A1;Rojo;Automático;2;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;8
+318;Pereira;7;AAA318;Renault-A1A1;Blanco;Manual;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;8
+319;Cartagena;7;AAA319;Ford-A1A1;Negro;Automático;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;2
+320;Bogota;7;AAA320;BMW-A1;Azul;Manual;2;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;5
+321;Valledupar;7;AAA321;Mercedes Benz-A1;Gris;Automático;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;9
+322;Cali;7;AAA322;Audi-A1;Negro;Manual;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;6
+323;Medellin;7;AAA323;Renault-A1;Rojo;Automático;3;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;7
+324;Barranquilla;7;AAA324;Ford-A1;Blanco;Manual;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;18
+325;Villavicencio;7;AAA325;BMW-A1A1;Azul;Automático;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;8
+326;Santa Marta;7;AAA326;Mercedes Benz-A1A1;Gris;Manual;3;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;9
+327;Riohacha;7;AAA327;Audi-A1A1;Negro;Automático;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;7
+328;Pereira;7;AAA328;Renault-A1A1;Rojo;Manual;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;4
+329;Cartagena;7;AAA329;Ford-A1A1;Blanco;Automático;3;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;4
+330;Bogota;7;AAA330;BMW-A1;Negro;Manual;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;18
+331;Valledupar;7;AAA331;Mercedes Benz-A1;Rojo;Automático;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;7
+332;Cali;7;AAA332;Audi-A1;Blanco;Manual;4;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;17
+333;Medellin;7;AAA333;Renault-A1;Negro;Automático;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;4
+334;Barranquilla;7;AAA334;Ford-A1;Rojo;Manual;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;20
+335;Villavicencio;7;AAA335;BMW-A1A1;Blanco;Automático;4;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;20
+336;Santa Marta;7;AAA336;Mercedes Benz-A1A1;Negro;Manual;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;11
+337;Riohacha;7;AAA337;Audi-A1A1;Rojo;Automático;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;11
+338;Pereira;7;AAA338;Renault-A1A1;Blanco;Manual;4;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;8
+339;Cartagena;7;AAA339;Ford-A1A1;Negro;Automático;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;12
+340;Bogota;7;AAA340;BMW-A1;Azul;Manual;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;17
+341;Valledupar;7;AAA341;Mercedes Benz-A1;Gris;Automático;1;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;5
+342;Cali;7;AAA342;Audi-A1;Negro;Manual;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;10
+343;Medellin;7;AAA343;Renault-A1;Rojo;Automático;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;6
+344;Barranquilla;7;AAA344;Ford-A1;Blanco;Manual;1;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;12
+345;Villavicencio;7;AAA345;BMW-A1A1;Azul;Automático;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;15
+346;Santa Marta;7;AAA346;Mercedes Benz-A1A1;Gris;Manual;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;16
+347;Riohacha;7;AAA347;Audi-A1A1;Negro;Automático;1;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;17
+348;Pereira;7;AAA348;Renault-A1A1;Rojo;Manual;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;9
+349;Cartagena;7;AAA349;Ford-A1A1;Blanco;Automático;1;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;6
+350;Bogota;7;AAA350;BMW-A1;Negro;Manual;1;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;20
+351;Valledupar;7;AAA351;Mercedes Benz-A1;Rojo;Automático;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;9
+352;Cali;7;AAA352;Audi-A1;Blanco;Manual;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;7
+353;Medellin;7;AAA353;Renault-A1;Negro;Automático;2;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;13
+354;Barranquilla;7;AAA354;Ford-A1;Rojo;Manual;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;0
+355;Villavicencio;7;AAA355;BMW-A1A1;Blanco;Automático;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;10
+356;Santa Marta;7;AAA356;Mercedes Benz-A1A1;Negro;Manual;2;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;15
+357;Riohacha;7;AAA357;Audi-A1A1;Rojo;Automático;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;6
+358;Pereira;7;AAA358;Renault-A1A1;Blanco;Manual;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;0
+359;Cartagena;7;AAA359;Ford-A1A1;Negro;Automático;2;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;14
+360;Bogota;7;AAA360;BMW-A1;Azul;Manual;2;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;13
+361;Valledupar;7;AAA361;Mercedes Benz-A1;Gris;Automático;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;17
+362;Cali;7;AAA362;Audi-A1;Negro;Manual;3;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;14
+363;Medellin;7;AAA363;Renault-A1;Rojo;Automático;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;5
+364;Barranquilla;7;AAA364;Ford-A1;Blanco;Manual;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;2
+365;Villavicencio;7;AAA365;BMW-A1A1;Azul;Automático;3;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;8
+366;Santa Marta;7;AAA366;Mercedes Benz-A1A1;Gris;Manual;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;6
+367;Riohacha;7;AAA367;Audi-A1A1;Negro;Automático;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;4
+368;Pereira;7;AAA368;Renault-A1A1;Rojo;Manual;3;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;15
+369;Cartagena;7;AAA369;Ford-A1A1;Blanco;Automático;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;5
+370;Bogota;7;AAA370;BMW-A1;Negro;Manual;3;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;15
+371;Valledupar;7;AAA371;Mercedes Benz-A1;Rojo;Automático;4;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;16
+372;Cali;7;AAA372;Audi-A1;Blanco;Manual;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;14
+373;Medellin;7;AAA373;Renault-A1;Negro;Automático;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;6
+374;Barranquilla;7;AAA374;Ford-A1;Rojo;Manual;4;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;8
+375;Villavicencio;7;AAA375;BMW-A1A1;Blanco;Automático;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;3
+376;Santa Marta;7;AAA376;Mercedes Benz-A1A1;Negro;Manual;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;16
+377;Riohacha;7;AAA377;Audi-A1A1;Rojo;Automático;4;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;20
+378;Pereira;7;AAA378;Renault-A1A1;Blanco;Manual;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;4
+379;Cartagena;7;AAA379;Ford-A1A1;Negro;Automático;4;https://w7.pngwing.com/pngs/484/215/png-transparent-bmw-x3-2015-bmw-x1-2014-bmw-x1-car-bmw-compact-car-car-vehicle.png;Carro;19
+380;Bogota;7;AAA380;BMW-A1;Azul;Manual;4;https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg;Carro;9
